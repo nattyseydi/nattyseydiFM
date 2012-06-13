@@ -1,0 +1,17 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+	<title>NattySeydiFM deh place fi good vibes</title>
+	<link rel="stylesheet" href="styles.css"> 		
+    </head>
+    <body>
+  	<div id="description">
+        <p> NattyseydiFM <br/> Deh place fi Good Vibes<br/>Web Radio</p>
+	</div>
+        <div id="player">
+           <audio controls loop autoplay> 
+           <source src="http://176.58.103.96:8000/mpd.ogg" />
+           </audio>
+	 </div>
+</body>
+</html>

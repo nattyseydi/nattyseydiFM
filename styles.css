@@ -1,0 +1,17 @@
+body {
+    background-image:url(images/reggae-1024x536.jpg);
+}
+
+#description{
+   font-size:26px;
+   color:black;
+   padding-left:100px;
+   background:white;
+   margin:0 auto;
+   text-align:center;
+}
+#player {
+   margin: 0 auto;
+   width:300px;
+   
+}
