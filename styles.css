@@ -1,17 +1,36 @@
 body {
-    background-image:url(images/reggae-1024x536.jpg);
+    background-image:url(images/bgnattyfm.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
 }
 
-#description{
-   font-size:26px;
-   color:black;
-   padding-left:100px;
-   background:white;
-   margin:0 auto;
-   text-align:center;
+#socialnetwork{
+   float:right;
+}
+
+#portrait{
+    margin-top:20px;
+    padding-left:45px;
+    
+   
+}
+#name{
+    font-size:25px;
+    padding-left:45px;
+    width:300px;
+    text-align:center;
+    margin-top:-20px;
+    color:#FFFFFF;
 }
 #player {
    margin: 0 auto;
+   margin-top: 50px;
    width:300px;
    
+}
+
+#share {
+   margin-top:20px;
+   width:960px;
+   text-align:center;
 }
