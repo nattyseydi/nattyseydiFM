@@ -2,7 +2,10 @@ body {
     background-image:url(images/bgnattyfm.jpg);
     background-repeat:no-repeat;
     background-attachment:fixed;
+    width:960px;
+    height:503px;
 }
+
 
 #socialnetwork{
    float:right;
@@ -30,7 +33,7 @@ body {
 }
 
 #share {
-   margin:0 auto;
+   margin-top:20px;
    width:960px;
    text-align:center;
 }

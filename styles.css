@@ -2,7 +2,12 @@ body {
     background-image:url(images/bgnattyfm.jpg);
     background-repeat:no-repeat;
     background-attachment:fixed;
+    background-color:black;
+    margin:0 auto;
+    width:960px;
+    height:503px;
 }
+
 
 #socialnetwork{
    float:right;

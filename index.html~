@@ -3,15 +3,11 @@
     <head>
 	<title>NattySeydiFM deh place fi good vibes</title>
 	<link rel="stylesheet" href="styles.css"> 
-        <script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
+        
 </script>		
     </head>
     <body>
+    <header>	
 	<div id="socialnetwork">
 	    <img src="images/twitter-bird-white-on-blue.png" alt="icone twitter"/> <img src="images/googleplus.png" alt="icone google plus"/>
 	</div>
@@ -34,9 +30,9 @@
 <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" 
         type="text/javascript">
 </script>
-<g:plusone annotation="inline"></g:plusone>
+
 
 	</div>
-	 
+</header>	 
 </body>
 </html>
