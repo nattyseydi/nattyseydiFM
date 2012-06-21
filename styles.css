@@ -16,6 +16,13 @@ body {
     
    
 }
+
+#portrait img{
+    padding-left:65px;
+    
+   
+}
+
 #name{
     font-size:25px;
     padding-left:45px;
@@ -35,4 +42,10 @@ body {
    margin-top:20px;
    width:960px;
    text-align:center;
+}
+
+.twitter-share-button {
+   position:absolute;
+   top:482px;
+   left:655px;
 }

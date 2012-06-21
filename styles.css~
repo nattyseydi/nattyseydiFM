@@ -11,11 +11,18 @@ body {
 }
 
 #portrait{
-    margin-top:20px;
+    margin-top:120px;
     padding-left:45px;
     
    
 }
+
+#portrait img{
+    padding-left:65px;
+    
+   
+}
+
 #name{
     font-size:25px;
     padding-left:45px;
