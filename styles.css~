@@ -43,3 +43,9 @@ body {
    width:960px;
    text-align:center;
 }
+
+.twitter-share-button {
+   position:absolute;
+   top:482px;
+   left:655px;
+}
