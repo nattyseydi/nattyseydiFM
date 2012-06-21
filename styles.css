@@ -34,7 +34,7 @@ body {
 #player {
    margin: 0 auto;
    margin-top: 50px;
-   width:600px;
+   width:300px;
    
 }
 
@@ -46,6 +46,6 @@ body {
 
 .twitter-share-button {
    position:absolute;
-   top:482px;
+   top:485px;
    left:655px;
 }

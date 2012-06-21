@@ -34,13 +34,13 @@ body {
 #player {
    margin: 0 auto;
    margin-top: 50px;
-   width:300px;
+   width:600px;
    
 }
 
 #share {
    margin-top:20px;
-   width:960px;
+   width:1170px;
    text-align:center;
 }
 
