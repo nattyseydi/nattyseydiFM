@@ -1,9 +1,8 @@
 body {
     background-image:url(images/bgnattyfm.jpg);
     background-repeat:no-repeat;
-    background-attachment:fixed;
-    width:960px;
-    height:503px;
+    background-color:black;
+    
 }
 
 
